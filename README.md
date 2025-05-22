@@ -1,5 +1,5 @@
 ☕ OOP Coffee Machine
-This is a beginner-level Python project built during Angela Yu’s 100 Days of Code course (Day 16). It simulates a coffee machine using Object-Oriented Programming (OOP) principles.
+OOP Coffee Machine This is a beginner-level Python project. It simulates a coffee machine using Object-Oriented Programming (OOP) principles.
 
 🔧 Features
 Lets a user choose from different drinks (like espresso, latte, cappuccino)
